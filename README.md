@@ -1,5 +1,6 @@
 # Markdown  语法规则
      1. <http://www.cnblogs.com/zachary93/p/6106829.html>
+     2.<http://www.appinn.com/markdown/>
 # 优秀资源
      > 就是爱读书 <https://github.com/justjavac/free-programming-books-zh_CN> 
          >> 互联网相关书籍包括 -前端 -后端 -操作系统
