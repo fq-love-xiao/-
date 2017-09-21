@@ -16,6 +16,8 @@
           >> 小白可选 <w3c/runoob/csdn>  
      > 前端技术论坛相关： 
          >>掘金/CSDN/w3c/简书/stackoverflow
+     > 前端进阶  
+         >>js: <http://www.cnblogs.com/TomXu/archive/2011/12/30/2288372.html>    
      > 配合前端使用的UI库
         1.饿了么 mint-ui<http://mint-ui.github.io/docs/#/> Element ui<http://element.eleme.io/>
         2.alibaba antd <https://ant.design/index-cn> 
