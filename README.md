@@ -29,8 +29,8 @@
                              4.Save to Pocket             便捷口袋 <br>
                              5.Vue.js devtools            调试工具 <br>
                              6.谷歌访问助手/蓝灯            翻墙神器     <br> 
-
-      
+     gitbook:    <https://www.gitbook.com/book/fq-love-xiao/web-study>
+      
 # 指南
 ##指南说明各个仓库的作用特点
 ###...........
