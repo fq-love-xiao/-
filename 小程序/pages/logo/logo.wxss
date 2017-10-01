@@ -1,0 +1,19 @@
+/* pages/logo/logo.wxss */
+.alls{
+   width: 750rpx;
+   height: 100%;
+}
+.logos{
+  position: relative;
+  width: 750rpx;
+  height:1100rpx;
+}
+.btns{
+  position: fixed;
+  width:  340px;
+  height: 40px;
+  top: 960rpx;
+  left: 105rpx;
+  font-size: 20px;
+  color: #AFAFAF;
+}

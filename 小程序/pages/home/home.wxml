@@ -1,0 +1,70 @@
+<!--pages/home/home.wxml-->
+<view>
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" class='swier'>
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  </block>
+</swiper>
+<!-- <text>pages/home/home.wxml</text> -->
+<view class='content'>
+        <!-- <input class='search'  placeholder="search message" focus="false" />
+        <view class='iconfont  icon-ss'></view> -->
+           <text class='describe'>  Beautiful from here</text>
+</view>
+<view class='types'>
+    <text >Product Types</text>
+</view>
+<view class='menus'>
+          <navigator  url="/pages/beauty/beauty?title=Blush"  
+class='menu'>Blush</navigator>
+           <navigator  url="/pages/beauty/beauty?title=Bronzer"  class='menu'>Bronzer</navigator>
+           <navigator  url="/pages/beauty/beauty?title=Eyebrow"  class='menu'>Eyebrow</navigator>
+          <navigator  url="/pages/beauty/beauty?title=Eyeliner"  class='menu'>Eyeliner</navigator>
+</view>
+<view class='menus'>
+          <navigator  url="/pages/beauty/beauty?title=Eyeshadow"  
+class='menu'>Eyeshadow</navigator>
+          <navigator  url="/pages/beauty/beauty?title=Foundation"  
+class='menu'>Foundation</navigator>
+          <navigator  url="/pages/beauty/beauty?title=Lip_liner"  
+class='menu'>Lip_liner</navigator>
+          <navigator  url="/pages/beauty/beauty?title=Lipstick"  
+class='menu'>	Lipstick</navigator>
+</view>
+<view class='types'>
+    <text >Brands list</text>
+</view>
+<view  class='menus'>
+    <text class='menu'>almay</text>     
+    <text class='menu'>anna sui</text>
+        <text class='menu'>benefit</text>     
+    <text class='menu'>annabelle</text>   
+</view>
+<view  class='menus'>
+    <text class='menu'>cargo cosmetics</text>     
+    <text class='menu'>china glaze</text>
+        <text class='menu'>covergirl</text>     
+    <text class='menu'>dalish</text>   
+</view>
+<view class='switchMenu'>
+      <navigator  url="/pages/home/home?title=home">
+           <text class="iconfont icon-shouye"></text>
+          <text class='kok'>主页</text>
+      </navigator >
+      <navigator  url="/pages/beauty/beauty?title=beauty">
+         <text class="iconfont icon-home"></text>
+         <text class='kok'>美丽资讯</text>
+         </navigator >
+      <navigator url="/pages/joke/joke?title=joke">  
+            <text class="iconfont icon-kaixinluntan"></text>
+            <text class='kok'>开心一刻</text>
+      </navigator >
+      <navigator  url="/pages/more/more?title=more">
+        <text class="iconfont  icon-wode"></text>
+        <text class='kok'>More</text>
+      </navigator >
+</view>
+ </view>

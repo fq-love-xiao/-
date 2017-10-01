@@ -1,0 +1,10 @@
+<!--pages/beauty/pages/detail/detail.wxml-->
+<view class='holdme'>
+<text class='txt'>{{itemsDetail.brand}}</text>
+<text  class='txt'>{{itemsDetail.price}}$</text>
+<text  class='txt'>{{itemsDetail.name}}</text>
+<image  class='tupian' src="{{itemsDetail.image_link}}"  mode='center'></image>
+<text    class='txt hold'>{{itemsDetail.description}}</text>
+</view>
+
+

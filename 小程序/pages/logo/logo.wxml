@@ -1,0 +1,6 @@
+<!--pages/logo/logo.wxml-->
+<view class='alls'>
+ <image  bindtap="switchtohome"  class="logos" src="/static/logo.jpg" mode="aspectFit">  
+</image> 
+   <view class='btns'>Beautiful from here</view>
+</view>

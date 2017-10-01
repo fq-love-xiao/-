@@ -1,0 +1,22 @@
+/* pages/joke/joke.wxss */
+.contents{
+  font-size: 14px;
+color: #ccc;
+}
+.joker{
+  display: block;
+  font-size: 14px;
+  text-align: center;
+}
+.ones{
+  display: block;
+  margin: 9px;
+}
+.items{
+  display: block;
+  font-size:  12px;
+  color:  #3A3A3A;
+  margin: 9px;
+  margin-bottom: 20px;
+  line-height: 20px;
+}

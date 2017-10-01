@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/logo/logo",
+    "pages/home/home",
+    "pages/more/more",
+    "pages/joke/joke",
+    "pages/beauty/beauty",
+    "pages/beauty/pages/detail/detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

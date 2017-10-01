@@ -1,0 +1,37 @@
+<!-- https://makeup-api.herokuapp.com/api/v1/products/452.json  -->
+
+<view>
+<view class='groups'>{{title}}</view>
+<view class='items' wx:for="{{common}}" wx:key="{{common.id}}">
+        <navigator  url="pages/detail/detail?item={{item.product_api_url}}"  class='ites' >
+                <image src="{{item.image_link}}"  mode='center'></image>
+        </navigator>
+        <view class='fr'>
+            <text class='hangs'> Bread: {{item.brand}}</text>
+            <text class='hangs'> Sale: {{item.price}} $ </text> 
+            <text class='hangs'>Time:  {{item.updated_at}} </text>
+        </view>
+           <!-- <navigator  url='pages/detail/detail'  class='ites'>
+                <image src='https://d3t32hsnjxo7q6.cloudfront.net/i/e8c59b78ebeaec5c4b6aeba49a9ff0f6_ra,w158,h184_pa,w158,h184.png' mode='center'></image>
+            <text class='hangs'>brand:"maybelline"</text>
+            <text class='hangs'>price:"14.99"</text> 
+            <text class='hangs'>2016-10</text>
+        </navigator>
+           <navigator  url='pages/detail/detail'  class='ites'>
+                <image src='https://d3t32hsnjxo7q6.cloudfront.net/i/e8c59b78ebeaec5c4b6aeba49a9ff0f6_ra,w158,h184_pa,w158,h184.png' mode='center'></image>
+            <text class='hangs'>brand:"maybelline"</text>
+            <text class='hangs'>price:"14.99"</text> 
+            <text class='hangs'>2016-10</text>
+        </navigator> -->
+</view>
+</view>
+ <!-- <block wx:for="{{beauty.blush}}">       
+           <view class='brand'> {{item.brand}} </view>
+           <view class='category'> {{item.category}} </view>
+            <view class='description'> {{item.description}} </view>
+           <view class='image_link'> {{item.image_link}} </view>
+            <view class='price'> {{item.price}} </view>
+           <view class='category'> {{item.product_api_url}} </view>
+            <view class='rating'> {{item.rating}} </view>
+           <view class='image_link'> {{item.updated_at}} </view>
+ </block> -->

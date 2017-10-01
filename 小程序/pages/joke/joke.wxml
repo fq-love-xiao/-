@@ -1,0 +1,10 @@
+<!--pages/joke/joke.wxml-->
+<text class='joker'> 	a moment of fun</text>
+
+<view class='contents' >
+         <text class='ones'> {{ones}}</text>
+         <block wx:for="{{jokeArr}}">
+           <!-- <view> {{index}} </view> -->
+           <view class='items'> {{item.joke}} </view>
+        </block>
+</view>

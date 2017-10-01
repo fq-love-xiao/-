@@ -1,0 +1,126 @@
+/* pages/home/home.wxss */
+.switchMenu{
+  position: fixed;
+  width: 750rpx;
+  height: 45px;
+  bottom: 0;
+  left: 0;
+border-top: 1px solid #ccc;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.describe{
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 20px;
+}
+image{
+  width:100%;
+
+}
+.swier{
+  width: 100%;
+}
+.kok{
+  font-size:12px;
+}
+.iconfont{
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+}
+.content{
+  margin: 9px 0;
+  display: block;
+  width: 100%;
+  height: 30px;
+}
+.search{
+  display: block;
+  float: left;
+  width: 80%;
+  border: 1px solid #ccc;
+  margin-left: 9px;
+  font-size: 12px;
+}
+.icon-ss{
+  float: right;
+  color: #ccc;
+  margin-right: 15px;
+  margin-top: 2px;
+  font-size: 20px !important;
+}
+.menus{
+  display: flex;
+  justify-content: space-around;
+align-items: center;
+margin-bottom: 9px;
+}
+.menu{
+  border:  1px solid #FFEC15;
+  text-align: center;
+  font-size:  12px;
+  padding: 4px;
+  color: #FFEC15;
+  width: 20%;
+}
+.types{
+padding: 5px;
+font-size: 18px;
+color: #969696;
+}
+/* iconfont */
+@font-face {
+  font-family: 'iconfont';  /* project id 432807 */
+  src: url('//at.alicdn.com/t/font_432807_dahc16bu2mswz5mi.eot');
+  src: url('//at.alicdn.com/t/font_432807_dahc16bu2mswz5mi.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_432807_dahc16bu2mswz5mi.woff') format('woff'),
+  url('//at.alicdn.com/t/font_432807_dahc16bu2mswz5mi.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_432807_dahc16bu2mswz5mi.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-kaixinluntan:before { content: "\e63a"; }
+
+.icon-attention:before { content: "\e629"; }
+
+.icon-shezhi:before { content: "\e614"; }
+
+.icon-homek:before { content: "\e652"; }
+
+.icon-aimeili:before { content: "\e70c"; }
+
+.icon-gengduofuwu:before { content: "\e6e7"; }
+
+.icon-shouye:before { content: "\e60c"; }
+
+.icon-home:before { content: "\e600"; }
+
+.icon-ss:before { content: "\e6ac"; }
+
+.icon-aimeili1:before { content: "\e64e"; }
+
+.icon-icon-test1:before { content: "\e6ee"; }
+
+.icon-ss1:before { content: "\e665"; }
+
+.icon-yaoqingyoujiang:before { content: "\e655"; }
+
+.icon-daifukuan:before { content: "\e633"; }
+
+.icon-wode:before { content: "\e60e"; }
+
+.icon-gouwuche-white-copy:before { content: "\e60f"; }
+
+.icon-mima-copy:before { content: "\e72b"; }
+
