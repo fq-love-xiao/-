@@ -6,34 +6,34 @@
 * [前端技术论坛](#talk)
 * [前端进阶](#upda)
 * [框架UI库](#ui)
-* [Books](#books)  
-     
-### Base   
-*小白可选 <w3c/runoob/csdn> 
+* [工具](#books)  
+* [gitbook](#books)     
+### 基础入门系列  
+  小白可选 <w3c/runoob/csdn> 
 
-### Talk    
- *掘金/CSDN/w3c/简书/stackoverflow <br>
+### 前端技术论坛    
+  掘金/CSDN/w3c/简书/stackoverflow <br>
     
-### Upda    
-*js: <http://www.cnblogs.com/TomXu/archive/2011/12/30/2288372.html> 
+### 前端进阶    
+  js: <http://www.cnblogs.com/TomXu/archive/2011/12/30/2288372.html> 
 ### Ui
 1.饿了么 mint-ui<http://mint-ui.github.io/docs/#/> <br>
-Element ui<http://element.eleme.io/><br>
+       Element ui<http://element.eleme.io/><br>
 2.alibaba antd <https://ant.design/index-cn> <br>
-antd-mobile <https://mobile.ant.design/index-cn><br>
-weex  <http://weex.apache.org/cn/>  原生<br>
-.样式 bootstrap  <br>
+   antd-mobile <https://mobile.ant.design/index-cn><br>
+3.weex  <http://weex.apache.org/cn/>  原生<br>
 4.DCloud  MUI  <br>
 5.amazeui <http://amazeui.org/>  等等   <br>                      
 前端流行技术  vue <https://vuex.vuejs.org>  react <https://facebook.github.io/react/> <br>
-工具 <br>
+### 工具 <br>
                              1.JSON VIEW                  json文件  查看神器 <br>
                              2.OCTOTREE                   GitHub源码 查看神器 <br>
                              3.React Developer Tools      调试工具 <br>
                              4.Save to Pocket             便捷口袋 <br>
                              5.Vue.js devtools            调试工具 <br>
-                             6.谷歌访问助手/蓝灯            翻墙神器     <br> 
- gitbook:    <https://www.gitbook.com/book/fq-love-xiao/web-study>
+                             6.谷歌访问助手/蓝灯            翻墙神器     <br>
+
+### gitbook    <https://www.gitbook.com/book/fq-love-xiao/web-study>
       
 # 指南
 ##指南说明各个仓库的作用特点
