@@ -35,6 +35,7 @@
 
 ### gitbook    <https://www.gitbook.com/book/fq-love-xiao/web-study>
       
-# 指南
-##指南说明各个仓库的作用特点
+## 指南  各种项目的链接地址
+###  微信小程序
+* 魅力人生<https://github.com/fq-love-xiao/-/tree/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F>
 ###...........
