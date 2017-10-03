@@ -6,15 +6,15 @@
 * [前端技术论坛](#talk)
 * [前端进阶](#upda)
 * [框架UI库](#ui)
-* [工具](#books)  
-* [gitbook](#books)     
-### 基础入门系列  
+* [工具](#tool)  
+* [mybook](#gitbook)     
+### Base
   小白可选 <w3c/runoob/csdn> 
 
-### 前端技术论坛    
+### Talk    
   掘金/CSDN/w3c/简书/stackoverflow <br>
     
-### 前端进阶    
+### Upda  
   js: <http://www.cnblogs.com/TomXu/archive/2011/12/30/2288372.html> 
 ### Ui
 1.饿了么 mint-ui<http://mint-ui.github.io/docs/#/> <br>
@@ -25,7 +25,7 @@
 4.DCloud  MUI  <br>
 5.amazeui <http://amazeui.org/>  等等   <br>                      
 前端流行技术  vue <https://vuex.vuejs.org>  react <https://facebook.github.io/react/> <br>
-### 工具 <br>
+### Tool <br>
                              1.JSON VIEW                  json文件  查看神器 <br>
                              2.OCTOTREE                   GitHub源码 查看神器 <br>
                              3.React Developer Tools      调试工具 <br>
