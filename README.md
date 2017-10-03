@@ -24,14 +24,14 @@
 3.weex  <http://weex.apache.org/cn/>  原生<br>
 4.DCloud  MUI  <br>
 5.amazeui <http://amazeui.org/>  等等   <br>                      
-前端流行技术  vue <https://vuex.vuejs.org>  react <https://facebook.github.io/react/> <br>
+
 ### Tool <br>
-                             1.JSON VIEW                  json文件  查看神器 <br>
-                             2.OCTOTREE                   GitHub源码 查看神器 <br>
-                             3.React Developer Tools      调试工具 <br>
-                             4.Save to Pocket             便捷口袋 <br>
-                             5.Vue.js devtools            调试工具 <br>
-                             6.谷歌访问助手/蓝灯            翻墙神器     <br>
+1.JSON VIEW                  json文件查看神器 
+2.OCTOTREE                   GitHub源码查看神器
+3.React Developer Tools      调试工具 
+4.Save to Pocket             便捷口袋
+5.Vue.js devtools            调试工具
+6.谷歌访问助手/蓝灯             翻墙神器  
 
 ### gitbook    <https://www.gitbook.com/book/fq-love-xiao/web-study>
       
